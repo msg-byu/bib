@@ -1,3 +1,6 @@
+Rev. 0.3 (JJ)
+- Added entries to master.bib on k-points.
+
 Rev. 0.2 (GLWH) 
 - Added of few entries (to master.bib) directly from google scholar
 
