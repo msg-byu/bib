@@ -1,3 +1,6 @@
+Rev. 0.4 (JJ)
+- Added VASP paper master.bib.
+
 Rev. 0.3 (JJ)
 - Added entries to master.bib on k-points.
 
