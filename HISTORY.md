@@ -1,3 +1,7 @@
+Rev. 0.5 (JJ)
+- Removed duplicate references and renamed references that didn't
+  follow Google's naming convention.
+
 Rev. 0.4 (JJ)
 - Added VASP paper master.bib.
 
